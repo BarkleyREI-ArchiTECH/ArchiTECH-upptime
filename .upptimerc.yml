@@ -33,7 +33,7 @@ status-website:
   cname: status.architech.network
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/BarkleyREI/ArchiTECH-upptime/gh-pages/architech-logo.png
+  logoUrl: https://raw.githubusercontent.com/BarkleyREI/ArchiTECH-upptime/master/architech-logo.png
   name: ArchiTECH
   introTitle: 
   introMessage: 
@@ -42,6 +42,9 @@ status-website:
       href: /
     - title: ArchiTECH
       href: https://www.builtforyou.com/
+
+i18n:
+  footer: Copyright © 2020 BarkleyREI
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
