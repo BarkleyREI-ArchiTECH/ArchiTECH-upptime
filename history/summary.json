@@ -5,7 +5,7 @@
     "slug": "archi-tech-service",
     "status": "up",
     "uptime": "100.00%",
-    "time": 351
+    "time": 336
   },
   {
     "name": "Architech Help",
@@ -13,7 +13,7 @@
     "slug": "architech-help",
     "status": "up",
     "uptime": "100.00%",
-    "time": 357
+    "time": 356
   },
   {
     "name": "Allegany County, The Mountain Side of Maryland",
@@ -21,7 +21,7 @@
     "slug": "allegany-county-the-mountain-side-of-maryland",
     "status": "up",
     "uptime": "100.00%",
-    "time": 327
+    "time": 319
   },
   {
     "name": "PA Route 6 Alliance",
@@ -29,7 +29,7 @@
     "slug": "pa-route-6-alliance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 354
+    "time": 343
   },
   {
     "name": "Raystown Lake",
@@ -37,7 +37,7 @@
     "slug": "raystown-lake",
     "status": "up",
     "uptime": "100.00%",
-    "time": 329
+    "time": 331
   },
   {
     "name": "Visit Santa Rosa",
@@ -45,7 +45,7 @@
     "slug": "visit-santa-rosa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 335
+    "time": 328
   },
   {
     "name": "Visit the Delta",
@@ -53,7 +53,7 @@
     "slug": "visit-the-delta",
     "status": "up",
     "uptime": "100.00%",
-    "time": 365
+    "time": 352
   },
   {
     "name": "Visit Vicksburg",
@@ -61,7 +61,7 @@
     "slug": "visit-vicksburg",
     "status": "up",
     "uptime": "100.00%",
-    "time": 344
+    "time": 335
   },
   {
     "name": "University of Virginia School of Architecture",
@@ -69,7 +69,7 @@
     "slug": "university-of-virginia-school-of-architecture",
     "status": "up",
     "uptime": "100.00%",
-    "time": 553
+    "time": 527
   },
   {
     "name": "LuCa National Training Network",
@@ -77,6 +77,6 @@
     "slug": "lu-ca-national-training-network",
     "status": "up",
     "uptime": "100.00%",
-    "time": 544
+    "time": 536
   }
 ]
