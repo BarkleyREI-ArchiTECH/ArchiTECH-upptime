@@ -1,0 +1,82 @@
+[
+  {
+    "name": "ArchiTECH Service",
+    "url": "https://www.builtforyou.com/ping.html",
+    "slug": "archi-tech-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 437
+  },
+  {
+    "name": "Architech Help",
+    "url": "https://www.architech.help/ping.html",
+    "slug": "architech-help",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 476
+  },
+  {
+    "name": "Allegany County, The Mountain Side of Maryland",
+    "url": "https://www.mdmountainside.com/ping.html",
+    "slug": "allegany-county-the-mountain-side-of-maryland",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 400
+  },
+  {
+    "name": "PA Route 6 Alliance",
+    "url": "https://www.paroute6.com/ping.html",
+    "slug": "pa-route-6-alliance",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 397
+  },
+  {
+    "name": "Raystown Lake",
+    "url": "https://www.raystown.org/ping.html",
+    "slug": "raystown-lake",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 364
+  },
+  {
+    "name": "Visit Santa Rosa",
+    "url": "https://www.visitsantarosa.com/ping.html",
+    "slug": "visit-santa-rosa",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 378
+  },
+  {
+    "name": "Visit the Delta",
+    "url": "https://www.visitthedelta.com/ping.html",
+    "slug": "visit-the-delta",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 401
+  },
+  {
+    "name": "Visit Vicksburg",
+    "url": "https://www.visitvicksburg.com/ping.html",
+    "slug": "visit-vicksburg",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 465
+  },
+  {
+    "name": "University of Virginia School of Architecture",
+    "url": "https://www.arch.virginia.edu/ping.html",
+    "slug": "university-of-virginia-school-of-architecture",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 586
+  },
+  {
+    "name": "LuCa National Training Network",
+    "url": "https://www.lucatraining.org/ping.html",
+    "slug": "lu-ca-national-training-network",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 645
+  }
+]
