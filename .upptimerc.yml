@@ -1,34 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: BarkleyREI # Your GitHub username
+repo: ArchiTECH-upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: ArchiTECH Service
+    url: https://www.builtforyou.com/ping.html
+  - name: Architech Help
+    url: https://www.architech.help/ping.html
+  - name: Allegany County, The Mountain Side of Maryland
+    url: https://www.mdmountainside.com/ping.html
+  - name: PA Route 6 Alliance
+    url: https://www.paroute6.com/ping.html
+  - name: Raystown Lake
+    url: https://www.raystown.org/ping.html
+  - name: Visit Santa Rosa
+    url: https://www.visitsantarosa.com/ping.html
+  - name: Visit the Delta
+    url: https://www.visitthedelta.com/ping.html
+  - name: Visit Vicksburg
+    url: https://www.visitvicksburg.com/ping.html
+  - name: University of Virginia School of Architecture
+    url: https://www.arch.virginia.edu/ping.html
+  - name: LuCa National Training Network
+    url: https://www.lucatraining.org/ping.html
+
+assignees: # Users to assign downtime issues (optional)
+  - risadams
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.architech.network
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://raw.githubusercontent.com/BarkleyREI/ArchiTECH-upptime/gh-pages/architech-logo.png
+  name: ArchiTECH
+  introTitle: 
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ArchiTECH
+      href: https://www.builtforyou.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
