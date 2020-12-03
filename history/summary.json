@@ -5,7 +5,15 @@
     "slug": "archi-tech-service",
     "status": "up",
     "uptime": "100.00%",
-    "time": 373
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 379,
+    "timeDay": 436,
+    "timeWeek": 389,
+    "timeMonth": 379,
+    "timeYear": 379
   },
   {
     "name": "Architech Help",
@@ -13,7 +21,15 @@
     "slug": "architech-help",
     "status": "up",
     "uptime": "100.00%",
-    "time": 436
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 431,
+    "timeDay": 378,
+    "timeWeek": 484,
+    "timeMonth": 431,
+    "timeYear": 431
   },
   {
     "name": "Allegany County, The Mountain Side of Maryland",
@@ -21,7 +37,15 @@
     "slug": "allegany-county-the-mountain-side-of-maryland",
     "status": "up",
     "uptime": "100.00%",
-    "time": 392
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 390,
+    "timeDay": 372,
+    "timeWeek": 430,
+    "timeMonth": 390,
+    "timeYear": 390
   },
   {
     "name": "PA Route 6 Alliance",
@@ -29,7 +53,15 @@
     "slug": "pa-route-6-alliance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 365
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 366,
+    "timeDay": 375,
+    "timeWeek": 373,
+    "timeMonth": 366,
+    "timeYear": 366
   },
   {
     "name": "Raystown Lake",
@@ -37,7 +69,15 @@
     "slug": "raystown-lake",
     "status": "up",
     "uptime": "100.00%",
-    "time": 375
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 378,
+    "timeDay": 407,
+    "timeWeek": 400,
+    "timeMonth": 378,
+    "timeYear": 378
   },
   {
     "name": "Visit Santa Rosa",
@@ -45,7 +85,15 @@
     "slug": "visit-santa-rosa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 374
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 376,
+    "timeDay": 391,
+    "timeWeek": 405,
+    "timeMonth": 376,
+    "timeYear": 376
   },
   {
     "name": "Visit the Delta",
@@ -53,7 +101,15 @@
     "slug": "visit-the-delta",
     "status": "up",
     "uptime": "100.00%",
-    "time": 397
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 397,
+    "timeDay": 387,
+    "timeWeek": 414,
+    "timeMonth": 397,
+    "timeYear": 397
   },
   {
     "name": "Visit Vicksburg",
@@ -61,7 +117,15 @@
     "slug": "visit-vicksburg",
     "status": "up",
     "uptime": "100.00%",
-    "time": 372
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 376,
+    "timeDay": 419,
+    "timeWeek": 393,
+    "timeMonth": 376,
+    "timeYear": 376
   },
   {
     "name": "University of Virginia School of Architecture",
@@ -69,7 +133,15 @@
     "slug": "university-of-virginia-school-of-architecture",
     "status": "up",
     "uptime": "100.00%",
-    "time": 551
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 546,
+    "timeDay": 490,
+    "timeWeek": 519,
+    "timeMonth": 546,
+    "timeYear": 546
   },
   {
     "name": "LuCa National Training Network",
@@ -77,6 +149,14 @@
     "slug": "lu-ca-national-training-network",
     "status": "up",
     "uptime": "100.00%",
-    "time": 613
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 621,
+    "timeDay": 703,
+    "timeWeek": 678,
+    "timeMonth": 621,
+    "timeYear": 621
   }
 ]
