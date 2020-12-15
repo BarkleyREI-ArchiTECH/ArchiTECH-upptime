@@ -13,10 +13,10 @@ sites:
     url: https://architech.travel/ping.html
     icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
 
-  - name: Architech Help
+  - name: ArchiTECH Help
     url: https://www.architech.help/ping.html
     icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
-  - name: Architech Help - search
+  - name: ArchiTECH Help - search
     url: https://www.architech.help/results?search=
     __dangerous__body_degraded: "Search service is unavailable"
 
