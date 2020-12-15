@@ -4,26 +4,63 @@ repo: ArchiTECH-upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  # Platform Sites
   - name: ArchiTECH Service
     url: https://www.builtforyou.com/ping.html
+    icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
+
   - name: Architech Help
     url: https://www.architech.help/ping.html
+    icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
+
+  # Tenant Sites
   - name: Allegany County, The Mountain Side of Maryland
     url: https://www.mdmountainside.com/ping.html
+  - name: Allegany County, The Mountain Side of Maryland - Search
+    url: https://www.mdmountainside.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: PA Route 6 Alliance
     url: https://www.paroute6.com/ping.html
+  - name: PA Route 6 Alliance - Search
+    url: https://www.paroute6.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: Raystown Lake
     url: https://www.raystown.org/ping.html
+  - name: Raystown Lake - Search
+    url: https://www.raystown.org/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: Visit Santa Rosa
     url: https://www.visitsantarosa.com/ping.html
+  - name: Visit Santa Rosa - Search
+    url: https://www.visitsantarosa.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: Visit the Delta
     url: https://www.visitthedelta.com/ping.html
+  - name: Visit the Delta - Search
+    url: https://www.visitthedelta.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: Visit Vicksburg
     url: https://www.visitvicksburg.com/ping.html
+  - name: Visit Vicksburg - search
+    url: https://www.visitvicksburg.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: University of Virginia School of Architecture
     url: https://www.arch.virginia.edu/ping.html
+  - name: University of Virginia School of Architecture - search
+    url: https://www.arch.virginia.edu/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
   - name: LuCa National Training Network
     url: https://www.lucatraining.org/ping.html
+  - name: LuCa National Training Network - search
+    url: https://www.lucatraining.org/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
 
 assignees: # Users to assign downtime issues (optional)
   - risadams
@@ -35,8 +72,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/BarkleyREI/ArchiTECH-upptime/master/architech-logo.png
   name: ArchiTECH
-  introTitle: 
-  introMessage: 
+  introTitle:
+  introMessage:
   navbar:
     - title: Status
       href: /
@@ -45,6 +82,5 @@ status-website:
 
 i18n:
   footer: Copyright © 2020 BarkleyREI
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
