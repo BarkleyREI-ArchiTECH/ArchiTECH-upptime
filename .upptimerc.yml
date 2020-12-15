@@ -9,6 +9,10 @@ sites:
     url: https://www.builtforyou.com/ping.html
     icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
 
+  - name: ArchiTECH Tourism
+    url: https://architech.travel/ping.html
+    icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
+
   - name: Architech Help
     url: https://www.architech.help/ping.html
     icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
