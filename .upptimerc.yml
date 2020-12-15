@@ -12,6 +12,9 @@ sites:
   - name: Architech Help
     url: https://www.architech.help/ping.html
     icon: https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png
+  - name: Architech Help - search
+    url: https://www.architech.help/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
 
   # Tenant Sites
   - name: Allegany County, The Mountain Side of Maryland
@@ -60,6 +63,79 @@ sites:
     url: https://www.lucatraining.org/ping.html
   - name: LuCa National Training Network - search
     url: https://www.lucatraining.org/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+# Demo Sites
+  - name: Redwood
+    url: https://demo-redwood-v1.builtforyou.com/ping.html
+  - name: Redwood - Search
+    url: https://demo-redwood-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Pine Ridge
+    url: https://demo-pineridge-v1.builtforyou.com/ping.html
+  - name: Pine Ridge - Search
+    url: https://demo-pineridge-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Everest
+    url: https://everest.builtforyou.com/ping.html
+  - name: Everest - Search
+    url: https://everest.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Outdoors
+    url: https://demo-outdoors-v1.builtforyou.com/ping.html
+  - name: Outdoors - Search
+    url: https://demo-outdoors-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Coastal
+    url: https://demo-coastal-v1.builtforyou.com/ping.html
+  - name: Coastal - Search
+    url: https://demo-coastal-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Winter
+    url: https://demo-winter-v1.builtforyou.com/ping.html
+  - name: Winter - Search
+    url: https://demo-winter-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Winter
+    url: https://demo-winter-v1.builtforyou.com/ping.html
+  - name: Winter - Search
+    url: https://demo-winter-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Bear's Woods
+    url: https://demo-bearswoods-v1.builtforyou.com/ping.html
+  - name: Bear's Woods - Search
+    url: https://demo-bearswoods-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Norcal
+    url: https://demo-norcal-v1.builtforyou.com/ping.html
+  - name: Norcal - Search
+    url: https://demo-norcal-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Adventure
+    url: https://demo-adventure-v1.builtforyou.com/ping.html
+  - name: Adventure - Search
+    url: https://demo-adventure-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Lybart College
+    url: https://demo-lybart-v1.builtforyou.com/ping.html
+  - name: Lybart College - Search
+    url: https://demo-lybart-v1.builtforyou.com/results?search=
+    __dangerous__body_degraded: "Search service is unavailable"
+
+  - name: Lybart College (v2)
+    url: https://demo-lybart-v2.builtforyou.com/ping.html
+  - name: Lybart College (v2) - Search
+    url: https://demo-lybart-v2.builtforyou.com/results?search=
     __dangerous__body_degraded: "Search service is unavailable"
 
 assignees: # Users to assign downtime issues (optional)
