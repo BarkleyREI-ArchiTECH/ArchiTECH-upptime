@@ -106,12 +106,6 @@ sites:
     url: https://demo-winter-v1.builtforyou.com/results?search=
     __dangerous__body_degraded: "Search service is unavailable"
 
-  - name: Winter
-    url: https://demo-winter-v1.builtforyou.com/ping.html
-  - name: Winter - Search
-    url: https://demo-winter-v1.builtforyou.com/results?search=
-    __dangerous__body_degraded: "Search service is unavailable"
-
   - name: Bear's Woods
     url: https://demo-bearswoods-v1.builtforyou.com/ping.html
   - name: Bear's Woods - Search
