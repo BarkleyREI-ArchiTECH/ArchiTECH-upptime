@@ -40,54 +40,60 @@
     "url": "https://www.architech.help/ping.html",
     "icon": "https://cdn1.architech.network/at-assets/1.0.0.0/img/admin/favicons/favicon-96x96.png",
     "slug": "archi-tech-help",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 372,
     "timeWeek": 345,
     "timeMonth": 350,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 7
+    }
   },
   {
     "name": "ArchiTECH Help - search",
     "url": "https://www.architech.help/results?search=",
     "icon": "https://favicons.githubusercontent.com/www.architech.help",
     "slug": "archi-tech-help-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 402,
     "timeDay": 441,
     "timeWeek": 416,
     "timeMonth": 383,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 6
+    }
   },
   {
     "name": "Allegany County, The Mountain Side of Maryland",
     "url": "https://www.mdmountainside.com/ping.html",
     "icon": "https://favicons.githubusercontent.com/www.mdmountainside.com",
     "slug": "allegany-county-the-mountain-side-of-maryland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 401,
     "timeWeek": 377,
     "timeMonth": 340,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 4
+    }
   },
   {
     "name": "Allegany County, The Mountain Side of Maryland - Search",
