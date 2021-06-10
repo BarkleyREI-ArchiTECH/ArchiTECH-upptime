@@ -303,10 +303,10 @@
     "url": "https://www.arch.virginia.edu/ping.html",
     "icon": "https://favicons.githubusercontent.com/www.arch.virginia.edu",
     "slug": "university-of-virginia-school-of-architecture",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
@@ -314,14 +314,16 @@
     "timeWeek": 440,
     "timeMonth": 480,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-10": 1
+    }
   },
   {
     "name": "University of Virginia School of Architecture - search",
     "url": "https://www.arch.virginia.edu/results?search=",
     "icon": "https://favicons.githubusercontent.com/www.arch.virginia.edu",
     "slug": "university-of-virginia-school-of-architecture-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -339,10 +341,10 @@
     "url": "https://www.lucatraining.org/ping.html",
     "icon": "https://favicons.githubusercontent.com/www.lucatraining.org",
     "slug": "lu-ca-national-training-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
@@ -350,7 +352,9 @@
     "timeWeek": 456,
     "timeMonth": 447,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-10": 1
+    }
   },
   {
     "name": "LuCa National Training Network - search",
