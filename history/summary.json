@@ -616,18 +616,20 @@
     "url": "https://demo-bearswoods-v1.builtforyou.com/results?search=",
     "icon": "https://favicons.githubusercontent.com/demo-bearswoods-v1.builtforyou.com",
     "slug": "bear-s-woods-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 386,
-    "timeWeek": 303,
+    "timeDay": 355,
+    "timeWeek": 302,
     "timeMonth": 296,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-19": 1
+    }
   },
   {
     "name": "Norcal",
