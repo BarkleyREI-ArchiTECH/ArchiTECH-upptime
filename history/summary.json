@@ -451,7 +451,7 @@
     "timeMonth": 366,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2021-09-21": 941,
+      "2021-09-21": 952,
       "2021-09-20": 1430,
       "2021-09-19": 1440,
       "2021-09-18": 1428,
@@ -717,7 +717,7 @@
     "timeMonth": 397,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2021-09-21": 941,
+      "2021-09-21": 952,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
       "2021-09-18": 1440,
@@ -807,18 +807,20 @@
     "url": "https://demo-norcal-v1.builtforyou.com/results?search=",
     "icon": "https://favicons.githubusercontent.com/demo-norcal-v1.builtforyou.com",
     "slug": "norcal-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 464,
-    "timeWeek": 351,
-    "timeMonth": 292,
+    "timeDay": 404,
+    "timeWeek": 343,
+    "timeMonth": 291,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-21": 1
+    }
   },
   {
     "name": "Adventure",
