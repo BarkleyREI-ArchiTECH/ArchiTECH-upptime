@@ -147,19 +147,19 @@
     "url": "https://www.paroute6.com/results?search=",
     "icon": "https://favicons.githubusercontent.com/www.paroute6.com",
     "slug": "pa-route-6-alliance-search",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 945,
-    "timeDay": 915,
-    "timeWeek": 1115,
-    "timeMonth": 994,
-    "timeYear": 945,
+    "time": 946,
+    "timeDay": 951,
+    "timeWeek": 1105,
+    "timeMonth": 995,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2021-10-22": 1,
+      "2021-10-22": 12,
       "2021-09-13": 32,
       "2021-08-24": 51
     }
@@ -454,7 +454,7 @@
     "timeMonth": 349,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2021-10-22": 865,
+      "2021-10-22": 877,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -725,16 +725,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 159,
     "timeWeek": 260,
     "timeMonth": 251,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2021-09-24": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bear's Woods - Search",
@@ -753,7 +751,7 @@
     "timeMonth": 345,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2021-10-22": 866,
+      "2021-10-22": 877,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -888,7 +886,7 @@
     "timeMonth": 319,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2021-10-22": 866,
+      "2021-10-22": 877,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -928,18 +926,17 @@
     "icon": "https://favicons.githubusercontent.com/demo-adventure-v1.builtforyou.com",
     "slug": "adventure",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 169,
     "timeWeek": 256,
     "timeMonth": 267,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2021-09-24": 19,
       "2021-09-01": 7
     }
   },
@@ -952,7 +949,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 814,
     "timeDay": 741,
@@ -960,7 +957,6 @@
     "timeMonth": 786,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2021-09-24": 9,
       "2021-08-24": 54
     }
   },
@@ -1011,16 +1007,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 167,
     "timeWeek": 257,
     "timeMonth": 252,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2021-09-24": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lybart College (v2) - Search",
@@ -1031,7 +1025,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 461,
     "timeDay": 388,
@@ -1039,7 +1033,6 @@
     "timeMonth": 437,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2021-09-24": 8,
       "2021-08-24": 54
     }
   }
