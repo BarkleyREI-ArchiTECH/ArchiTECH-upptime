@@ -1,7 +1,7 @@
 url: https://demo-norcal-v1.builtforyou.com/ping.html
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2021-12-05T23:14:35.489Z
+status: down
+code: 404
+responseTime: 91
+lastUpdated: 2021-12-06T11:20:03.472Z
 startTime: Tue Dec 15 2020 14:10:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
