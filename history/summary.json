@@ -130,11 +130,11 @@
     "url": "https://www.paroute6.com/ping.html",
     "icon": "https://favicons.githubusercontent.com/www.paroute6.com",
     "slug": "pa-route-6-alliance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 344,
     "timeDay": 269,
@@ -142,6 +142,7 @@
     "timeMonth": 271,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2021-12-14": 5,
       "2021-09-13": 33
     }
   },
@@ -150,11 +151,11 @@
     "url": "https://www.paroute6.com/results?search=",
     "icon": "https://favicons.githubusercontent.com/www.paroute6.com",
     "slug": "pa-route-6-alliance-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 934,
     "timeDay": 797,
@@ -162,6 +163,7 @@
     "timeMonth": 828,
     "timeYear": 934,
     "dailyMinutesDown": {
+      "2021-12-14": 5,
       "2021-09-13": 32,
       "2021-08-24": 51
     }
@@ -456,7 +458,7 @@
     "timeMonth": 324,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2021-12-14": 517,
+      "2021-12-14": 545,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1427,
@@ -808,7 +810,7 @@
     "timeMonth": 311,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2021-12-14": 518,
+      "2021-12-14": 546,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
@@ -964,11 +966,11 @@
     "url": "https://demo-norcal-v1.builtforyou.com/ping.html",
     "icon": "https://favicons.githubusercontent.com/demo-norcal-v1.builtforyou.com",
     "slug": "norcal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 168,
@@ -976,6 +978,7 @@
     "timeMonth": 184,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2021-12-14": 3,
       "2021-09-26": 15
     }
   },
@@ -996,7 +999,7 @@
     "timeMonth": 255,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2021-12-14": 518,
+      "2021-12-14": 546,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
@@ -1130,28 +1133,30 @@
     "url": "https://demo-lybart-v1.builtforyou.com/ping.html",
     "icon": "https://favicons.githubusercontent.com/demo-lybart-v1.builtforyou.com",
     "slug": "lybart-college",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 173,
     "timeWeek": 236,
     "timeMonth": 201,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 2
+    }
   },
   {
     "name": "Lybart College - Search",
     "url": "https://demo-lybart-v1.builtforyou.com/results?search=",
     "icon": "https://favicons.githubusercontent.com/demo-lybart-v1.builtforyou.com",
     "slug": "lybart-college-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 512,
@@ -1160,6 +1165,7 @@
     "timeMonth": 425,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2021-12-14": 2,
       "2021-08-24": 54
     }
   },
@@ -1168,10 +1174,10 @@
     "url": "https://demo-lybart-v2.builtforyou.com/ping.html",
     "icon": "https://favicons.githubusercontent.com/demo-lybart-v2.builtforyou.com",
     "slug": "lybart-college-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -1179,17 +1185,19 @@
     "timeWeek": 265,
     "timeMonth": 192,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Lybart College (v2) - Search",
     "url": "https://demo-lybart-v2.builtforyou.com/results?search=",
     "icon": "https://favicons.githubusercontent.com/demo-lybart-v2.builtforyou.com",
     "slug": "lybart-college-v2-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 455,
@@ -1198,6 +1206,7 @@
     "timeMonth": 396,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-08-24": 54
     }
   }
