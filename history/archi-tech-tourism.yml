@@ -1,7 +1,7 @@
 url: https://architech.travel/ping.html
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2022-03-16T23:14:47.945Z
+status: down
+code: 504
+responseTime: 10466
+lastUpdated: 2022-03-17T05:39:54.687Z
 startTime: Tue Dec 15 2020 14:14:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
