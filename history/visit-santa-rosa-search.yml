@@ -1,7 +1,7 @@
 url: https://www.visitsantarosa.com/results?search=
-status: up
+status: degraded
 code: 200
-responseTime: 702
-lastUpdated: 2022-05-17T23:16:10.833Z
+responseTime: 691
+lastUpdated: 2022-05-18T18:49:19.247Z
 startTime: Tue Dec 15 2020 10:05:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
