@@ -1,7 +1,7 @@
 url: https://demo-redwood-v1.builtforyou.com/results?search=
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2023-01-05T11:06:11.271Z
+status: down
+code: 404
+responseTime: 366
+lastUpdated: 2023-01-05T11:21:14.347Z
 startTime: Tue Dec 15 2020 14:09:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
