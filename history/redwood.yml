@@ -1,7 +1,7 @@
 url: https://demo-redwood-v1.builtforyou.com/ping.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-13T19:06:44.929Z
+status: up
+code: 200
+responseTime: 549
+lastUpdated: 2023-01-13T20:01:13.976Z
 startTime: Tue Dec 15 2020 14:09:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
