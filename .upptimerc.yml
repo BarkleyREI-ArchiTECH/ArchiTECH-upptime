@@ -40,12 +40,6 @@ sites:
     url: https://www.visitthedelta.com/results?search=
     __dangerous__body_degraded: "Search service is unavailable"
 
-  - name: Visit Vicksburg
-    url: https://www.visitvicksburg.com/ping.html
-  - name: Visit Vicksburg - search
-    url: https://www.visitvicksburg.com/results?search=
-    __dangerous__body_degraded: "Search service is unavailable"
-
   - name: University of Virginia School of Architecture
     url: https://www.arch.virginia.edu/ping.html
   - name: University of Virginia School of Architecture - search
