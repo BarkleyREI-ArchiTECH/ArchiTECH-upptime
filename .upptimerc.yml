@@ -34,12 +34,6 @@ sites:
     url: https://www.visitsantarosa.com/results?search=
     __dangerous__body_degraded: "Search service is unavailable"
 
-  - name: Visit the Delta
-    url: https://www.visitthedelta.com/ping.html
-  - name: Visit the Delta - Search
-    url: https://www.visitthedelta.com/results?search=
-    __dangerous__body_degraded: "Search service is unavailable"
-
   - name: University of Virginia School of Architecture
     url: https://www.arch.virginia.edu/ping.html
   - name: University of Virginia School of Architecture - search
